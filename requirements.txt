@@ -5,3 +5,8 @@ jinja2
 pytest
 requests
 pre-commit
+pydantic-settings
+python-multipart
+aiofiles
+pillow
+pytesseract
